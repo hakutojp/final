@@ -3,4 +3,4 @@
 クラス　　　:SD2G<br><br>
 氏名　　　　:上滝　羽久斗<br><br>
 システム名  :ゲーム管理システム<br><br>
-URL 　　　　:
+URL 　　　　:https://aso2201365.vivian.jp/php_final/list.php

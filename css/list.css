@@ -1,0 +1,9 @@
+.table.is-bordered{
+    margin: auto;
+}
+
+#button{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10%;
+}
